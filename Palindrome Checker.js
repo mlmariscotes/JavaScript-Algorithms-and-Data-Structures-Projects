@@ -20,35 +20,4 @@ function palindrome(str) {
 
 palindrome("2_A3*3#A2"); //input
 
----------------------------------------------------------------------------
-// Google Answer1
-function palindrome(str) {
-    const alphanumericOnly = str
-        // 1) Lowercase the input
-        .toLowerCase()
-        // 2) Strip out non-alphanumeric characters
-        .match(/[a-z0-9]/g);
-        
-    // 3) return string === reversedString
-    return alphanumericOnly.join('') ===
-        alphanumericOnly.reverse().join('');
-}
 
-palindrome("eye");
-
----------------------------------------------------------------------------
-// Google Answer2
-function palindrome(str) {
-  
-  str = str.toLowerCase();  //Turn everything to lower case
-  // Remove all alphanumeric characters.
-  str = str.replace(/[^a-z0-9]/g, '');
-  var backward = str.split('');
-  backward = backward.reverse().join('').toString();
-  
-  if(backward === str){
-    return true;
-  } else {
-    return false;
-  }
-}
