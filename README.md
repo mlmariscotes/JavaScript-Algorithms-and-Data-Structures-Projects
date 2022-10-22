@@ -1,3 +1,14 @@
 # freeCodeCamp Challenge
 
-freeCodeCamp is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone
+## JavaScript Algorithms and Data Structures Projects
+
+This is it — time to put your new JavaScript skills to work. These projects are similar to the algorithm scripting challenges you've done before – just much more difficult.
+
+Complete these 5 JavaScript projects to earn the JavaScript Algorithms and Data Structures certification.
+
+1. Palindrome Checker
+2. Roman Numeral Converter
+3. Caesars Cipher
+4. Telephone Number Validator
+5. Cash Register
+
