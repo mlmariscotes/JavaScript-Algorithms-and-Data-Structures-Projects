@@ -1,4 +1,4 @@
-# freeCodeCamp Challenge
+<img width = "500px" src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_large.jpg">
 
 ## JavaScript Algorithms and Data Structures Projects
 
